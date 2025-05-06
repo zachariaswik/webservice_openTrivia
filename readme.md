@@ -1,8 +1,17 @@
-# Adaptive Quiz project
+# Adaptive Quiz project [WORKING PROJECT]
 
+Take data from the open trivia database - and create a small game type of learning.
+The difficulty of the questions will be either upgraded or downgraded adaptively based on a learning algorithm.
 
-Take data from the open trivia database - and create a small game type of learning. Where the difficulty of the questions are altered based on the learning. 
+This repo will contain the following parts:
 
-https://opentdb.com/api_config.php
+## user-interface
+User input, graphic interface, output, etc.  
+
+## learning algorithm
+Background processes related to learning. Adaptive learning algorithm choosing the difficulty grade of the questions. 
+
+## webservice
+Handle requests to the trivia URL endpoint "https://opentdb.com/". 
 
 
